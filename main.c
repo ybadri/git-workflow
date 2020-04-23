@@ -4,7 +4,10 @@ main()
 code
 }
 
-
+feature2 ()
+{	
+code
+}
 
 
 
